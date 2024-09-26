@@ -1,3 +1,16 @@
 h1 {
     color: blue;
+    font-family: "proxima-soft", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+h2 {
+    font-family: "p22-spooky", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+p {
+    font-family: "darkmode-on", sans-serif;
+    font-weight: 500;
+    font-style: normal;
 }
